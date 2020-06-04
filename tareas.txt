@@ -1,0 +1,4 @@
+mongodb+srv://KarenVH:KAREN123456@karencluster-tetn9.mongodb.net/test?retryWrites=true&w=majority
+
+usuario: KarenVH
+contraseña: KAREN123456
